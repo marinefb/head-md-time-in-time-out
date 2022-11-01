@@ -1,12 +1,19 @@
 # What do you use to be remind ?
 
 Horloge 
+
 Telephone 
+
 Alarm 
+
 Montre
+
 Photo
+
 Post it 
+
 Réveil 
+
 To do list 
 Objet 
 Souvenir 
