@@ -108,3 +108,26 @@ https://www.dexcom.com/fr-CA/applications-de-sgc
 ![boat Schedule](image/3.JPG)
 ![boat Schedule](image/4.JPG)
 ![boat Schedule](image/5.JPG)
+
+
+Design didactique 
+
+Sabine, maman Designer de deux enfants diabétiques 
+https://mamandesignerdunenfantdiabetique.com/category/did/
+
+Fiche Glycemie Ecole
+Cocotte d’apprentissage
+Outil pour la cantine 
+Did act tic tac 
+#Leny (Aide aux Jeunes Diabétiques et Medtronic)
+
+
+
+
+Design objet 
+
+Stickers
+Housse
+Bracelet pour capteur 
+Patch pour capteur 
+Kit THOMY, Renata Souza 
