@@ -19,7 +19,9 @@ A l’initiation d'un traitement, il est préconisé d'utiliser la plus petite t
 
      Trois options pour l'emplacement du capteur :
 haut des fesses : cet emplacement est approuvé pour les enfants de 2 à 17 ans.
+
 Arrière du haut du bras : Cet emplacement est facile d’accès et peut être une option idéale pour les personnes actives. Il est approuvé pour les personnes âgées de 2 ans et plus.
+
 Abdomen : Cet emplacement peut être plus facilement couvert par des vêtements, ce qui peut intéresser certaines personnes. Il est approuvé pour les personnes âgées de 2 ans et plus.
 
 Les alertes : 
@@ -30,3 +32,5 @@ Alerte de glycémie en baisse : Il arrive que les taux de glucose chutent rapide
 Programme d’alertes : pour être différemment pendant la journée, la nuit…  nouveau paramètre Programme d’alertes du Dexcom G6 permet de personnaliser un deuxième groupe d’alertes pour avoir flexibilité
 
 6 : support applicable sans capteur
+
+![boat Schedule](image/etude.png)
